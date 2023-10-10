@@ -1,0 +1,39 @@
+
+.user-list {
+    background-color: #8e748e;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    width:50%;
+  }
+  
+  .user-list h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align:center;
+  }
+  
+  .user-list ul {
+    list-style-type: none;
+    padding: 5px;
+  }
+  
+  .user-list li {
+    background-color: #fff;
+    border: 1px solid #a27171;
+    border-radius: 8px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .user-info {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .user-age {
+    color: #007bff;
+    font-size: 16px;
+  }
+  
