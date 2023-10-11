@@ -10,6 +10,7 @@ function UserList({ users }) {
           <li key={index}>
             <div className="user-info">Username: {user.username}</div>
             <div className="user-age">Age: {user.age}</div>
+            <div className="user-college">College Name: {user.college}</div>
           </li>
         ))}
       </ul>
